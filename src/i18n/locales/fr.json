@@ -1,0 +1,53 @@
+{
+  "common": {
+    "welcome": "Bienvenue sur Fundingdong",
+    "description": "La plateforme de financement participatif qui connecte les créateurs avec leur communauté",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "explore": "Explorer les projets"
+  },
+  "nav": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "create": "Créer un projet",
+    "about": "À propos"
+  },
+  "create": {
+    "title": "Créer un nouveau projet",
+    "basicInfo": "Informations de base",
+    "funding": "Objectifs et durée",
+    "image": "Image du projet",
+    "rewards": "Récompenses",
+    "tiktok": "Intégration TikTok",
+    "selectCategory": "Sélectionner une catégorie",
+    "description": "Description courte",
+    "content": "Contenu détaillé",
+    "goal": "Objectif de financement",
+    "duration": "Durée de la campagne",
+    "days": "jours",
+    "imageUrlPlaceholder": "URL de l'image du projet",
+    "imageHelp": "Utilisez une image de haute qualité au format 16:9",
+    "rewardTitle": "Titre de la récompense",
+    "rewardDescription": "Description de la récompense",
+    "rewardAmount": "Montant",
+    "rewardMaxBackers": "Nombre maximum de contributeurs",
+    "rewardDelivery": "Date de livraison estimée",
+    "addReward": "Ajouter une récompense",
+    "enableTikTok": "Activer l'intégration TikTok",
+    "tiktokHelp": "Partagez automatiquement les mises à jour de votre projet sur TikTok",
+    "submit": "Créer le projet"
+  },
+  "cookies": {
+    "title": "Nous respectons votre vie privée",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience sur notre site. Vous pouvez personnaliser vos préférences à tout moment.",
+    "necessary": "Cookies nécessaires",
+    "analytics": "Cookies analytiques",
+    "marketing": "Cookies marketing",
+    "required": "Requis",
+    "showPreferences": "Personnaliser",
+    "hidePreferences": "Masquer les préférences",
+    "acceptAll": "Tout accepter",
+    "rejectAll": "Tout refuser",
+    "savePreferences": "Enregistrer les préférences"
+  }
+}

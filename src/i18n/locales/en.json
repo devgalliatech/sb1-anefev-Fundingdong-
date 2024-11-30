@@ -1,0 +1,28 @@
+{
+  "common": {
+    "welcome": "Welcome to Fundingdong",
+    "description": "The crowdfunding platform that connects creators with their community",
+    "login": "Login",
+    "register": "Register",
+    "explore": "Explore projects"
+  },
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "create": "Create project",
+    "about": "About"
+  },
+  "cookies": {
+    "title": "We respect your privacy",
+    "description": "We use cookies to enhance your experience on our site. You can customize your preferences at any time.",
+    "necessary": "Necessary cookies",
+    "analytics": "Analytics cookies",
+    "marketing": "Marketing cookies",
+    "required": "Required",
+    "showPreferences": "Customize",
+    "hidePreferences": "Hide preferences",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all",
+    "savePreferences": "Save preferences"
+  }
+}
